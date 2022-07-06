@@ -13,7 +13,11 @@
 
 ###
 
-<p align="right">I'm Studing this technologiees:</p>
+<img align="left" height="150" src="https://media2.giphy.com/media/pVWuLuV1JESZJdebkI/200w.gif"  />
+
+###
+
+<p align="right">I'm Studing this technologies:</p>
 
 ###
 
@@ -30,17 +34,13 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/onlywillian/onlywillian/blob/output/snake.svg" alt="Snake animation" />
+<br clear="both">
+
+<p align="center">Ok, you will find me here:</p>
 
 ###
 
-<p align="center">ok you will find me here:</p>
-
-###
-
-<img align="left" height="150" src="https://media2.giphy.com/media/pVWuLuV1JESZJdebkI/200w.gif"  />
-
-###
+<br clear="both">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/willian-andrade-ab3307214/" target="_blank">
