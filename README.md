@@ -35,12 +35,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/onlywillian/onlywillian/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
 <p align="center">Ok, you will find me here:</p>
 
 ###
