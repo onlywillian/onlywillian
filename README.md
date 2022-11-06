@@ -1,3 +1,4 @@
+<div style="background-color: #fff">
 <h2 align="center">Ok, I'm just a normal programming</h2>
 
 ###
@@ -49,4 +50,5 @@
   <a href="https://discord.com/channels/Will()#7157" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
+</div>
 </div>
