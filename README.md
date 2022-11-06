@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  ![OnlyWillian GitHub stats](https://github-readme-stats.vercel.app/api?username=onlywillian&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&username=onlywillian](https://github-readme-stats.vercel.app/api?username=onlywillian&show_icons=true&theme=radical" height="150" alt="Stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&username=onlywillian" height="150" alt="languages graph"  />
 </div>
 
