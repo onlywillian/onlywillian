@@ -1,20 +1,23 @@
-<div style="background-color: #fff">
-<h2 align="center">Ok, I'm just a normal programming</h2>
+###
+
+<p align="left">hi, i'm Willian Andrade, a fullstack developer and freelancer software engineer from Brazil, creating applications is my hobby and my profession, always maintaining the good quality of the codes I create.</p>
+
+- 💼 any freelance work? do reach, email :)
+- 💬 ask me about anything, i am happy to help
 
 ###
 
-<p align="left">yeah i know, this profile is kinda boring</p>
-
-###
+📈 my github stats
 
 <div align="center">
+  
   <img src="https://github-readme-stats.vercel.app/api?username=onlywillian&show_icons=true&theme=gotham" height="150" alt="Stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&username=onlywillian" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<p align="right">I'm Studing this technologies:</p>
+<p align="right">languages and tools::</p>
 
 ###
 
@@ -23,28 +26,21 @@
 ###
 
 <div align="right">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="42" alt="docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="42" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,aws,react,next,git,nodejs" height="60" alt="javascript logo"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<p align="center">Ok, you will find me here:</p>
+<p align="center">You can find me here:</p>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/willian-andrade-ab3307214/" target="_blank">
+  <a href="https://www.linkedin.com/in/willian-an" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://discord.com/channels/Will()#7157" target="_blank">
