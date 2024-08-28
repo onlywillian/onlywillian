@@ -17,16 +17,12 @@
 
 ###
 
-<p align="right">languages and tools::</p>
+<p align="left">languages and tools:</p>
 
 ###
 
-<img align="left" height="150" src="https://media2.giphy.com/media/pVWuLuV1JESZJdebkI/200w.gif"  />
-
-###
-
-<div align="right">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,aws,react,next,git,nodejs" height="60" alt="javascript logo"  />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,aws,git,nodejs,docker,java,spring,postgres,mongodb,mysql" height="60" alt="logos"  />
 </div>
 
 ###
