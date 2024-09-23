@@ -7,12 +7,11 @@
 
 ###
 
-📈 my github stats
+📈 my language stats
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=onlywillian&show_icons=true&theme=gotham" height="150" alt="Stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&username=onlywillian" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=600&langs_count=5&theme=gotham&hide_border=false&username=onlywillian" height="150" alt="languages graph"  />
 </div>
 
 ###
