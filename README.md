@@ -21,7 +21,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,next,angular,aws,java,spring,cs,dotnet,postgres" height="60" alt="logos"  />
+  <img src="https://skillicons.dev/icons?i=js,ts,next,angular,java,spring,cs,dotnet,postgres" height="60" alt="logos"  />
 </div>
 
 ###
