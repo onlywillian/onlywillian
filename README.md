@@ -11,7 +11,8 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=600&langs_count=5&theme=gotham&hide_border=false&username=onlywillian" height="150" alt="languages graph"  />
+  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=onlywillian&theme=calm&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
+
 </div>
 
 ###
